@@ -174,7 +174,7 @@ default_loras = get_config_item_or_set_default(
             0.1
         ],
         [
-            "None",
+            "30_lora2.safetensors",
             1.0
         ],
         [
