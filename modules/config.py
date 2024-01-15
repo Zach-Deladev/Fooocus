@@ -174,7 +174,7 @@ default_loras = get_config_item_or_set_default(
             0.1
         ],
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "None",
             1.0
         ],
         [
